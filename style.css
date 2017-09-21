@@ -1,0 +1,33 @@
+body{
+  background: rgb(200,200,200);
+  background-image: "background.jpeg"
+  color: orange;
+  font-size: 15px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 {
+  font-family: Courier;
+  color: orange;
+  font-weight: lighter;
+  font-size: 18px;
+  border-bottom: 3px solid orange;
+  border-bottom-width: 1px
+}
+a {
+  color: purple;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30,30,30);
+  color: lightgrey;
+}
